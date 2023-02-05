@@ -1,5 +1,7 @@
 # Visual Pollution Detection
 ![](https://github.com/abdomorsi123/visual-pollution-detection/blob/main/demo.jpg)
+
+
 We built a machine learning solution to detect and evaluate different types of visual pollution in street imagery taken from a moving vehicle.
 
 ## Setup
